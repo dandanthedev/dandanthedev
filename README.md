@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/daanschenkel?template=terminal&config.timezone=Europe%2FAmsterdam)
+[![Daan's GitHub stats](https://github-readme-stats-daanschenkel.vercel.app/api?username=daanschenkel)]
