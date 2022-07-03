@@ -1,3 +1,4 @@
+[![Banner](banner.png)](https://daanschenkel.nl)
 # DannyDanDan
 
 Hey, its me! I commit to stuff sometimes :)
