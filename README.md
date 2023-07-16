@@ -1,7 +1,1 @@
-[![Banner](banner.png)](https://daanschenkel.nl)
-# DannyDanDan
-
-Hey, its me! I commit to stuff sometimes :)
-https://daanschenkel.nl
-
-and yes i do have a million repos but they're all private :P
+[![Discord Presence](https://lanyard.cnrad.dev/api/654390669472694284)](https://discord.com/users/654390669472694284)
